@@ -746,6 +746,10 @@ ul, li {
     align-items: center;
 }
 
+h3 {
+    color:#fff;
+}
+
 i {
     color:var(--white-clr)
 }
@@ -949,4 +953,18 @@ i {
         font-size:2rem;
         text-align: center;
     } 
+}
+
+@media only screen and (max-width: 657px) {
+
+    h3 {
+        font-size:0.7rem;
+    }
+}
+
+@media only screen and (max-width: 415px) {
+
+    h3 {
+        display:none;
+    }
 }
