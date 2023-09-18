@@ -1,1 +1,1 @@
-# Khizana.github.io
+# LazareKhizanashvili.github.io
